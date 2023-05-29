@@ -10,9 +10,13 @@ function reverse($input)
 }
 reverse([1, 2, 3, 4, 5]);
 
+
 echo  "****************************";
+
+
 // one of the way 
 $number = array(21,3,2,32,3,434,4);
 print_r(array_reverse($number))."\n";
-// print_r(strrev($number));
+
+
 ?>
